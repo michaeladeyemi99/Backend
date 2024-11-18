@@ -5,4 +5,4 @@ Flask-SQLAlchemy
 flask-restful
 psycopg2-binary
 python-dotenv
-
+gunicorn
